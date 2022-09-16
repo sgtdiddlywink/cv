@@ -1,0 +1,88 @@
+/*********************************Tag Selectors****************/
+html {
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  font-size: 10px;
+}
+
+body {
+  background-color: #E7F6F2;
+}
+
+hr {
+  border: none
+  background-color: #A5C9CA;
+  border-top: 8px dotted #A5C9CA;
+  width: 15%;
+  height: none;
+}
+
+h1 {
+  color: #2C3333;
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+h3 {
+  color: #395B64;
+  font-size: 3rem;
+  font-weight: 600;
+  text-decoration: underline;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+h4 {
+  color: #395B64;
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+h5 {
+  color: #395B64;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+h5:hover {
+  font-size: 2.02rem;
+}
+
+p {
+  color: #395B64;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+ul {
+  color: #395B64;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  font-size: 2rem;
+  text-align: left;
+}
+
+table {
+  color: #395B64;
+  font-family: Helvetica, Arial, "Trebuchet MS", sans-serif;
+  font-size: 2rem;
+  text-align: left;
+}
+
+img {
+  height: 100px;
+}
+
+/*Class Selectors - Used for multiple instances compared to Id*/
+
+
+/*Id Selectors - Used for a single instance compared to class*/
+
+#heading {
+
+}

@@ -158,6 +158,18 @@ body {
   word-wrap: break-word;
 }
 
+.rightContainer .articles li {
+  color: #374047;
+  font-size: 2.25rem;
+  letter-spacing: -1px;
+  line-height: 2.25rem;
+  margin: 0;
+  padding: 1rem 20rem 2rem 6rem;
+  word-wrap: break-word;
+  list-style: square;
+  list-style-position: inside;
+}
+
 .topnav {
   background-color: #606e79;
   overflow: hidden;

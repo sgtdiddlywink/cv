@@ -16,6 +16,7 @@ body {
   border-color: #cfd3d7;
   border-radius: 2rem;
   display: block;
+  margin-top: 10rem;
   margin-right: auto;
   max-width: 150rem;
 }
@@ -104,6 +105,13 @@ body {
   padding: 8rem 8% 10% 45rem;
   width: auto;
   margin: 0;
+}
+
+.rightContainer hr {
+ border-left: none;
+ border-right: none;
+ border-bottom: none;
+ margin-top: 10rem;
 }
 
 .rightContainer a {
